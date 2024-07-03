@@ -1,7 +1,7 @@
 # VotingApp - Springboot, Thymeleaf
 
  ### Take a look at this Application
-url: https://swapnilbamble1438.github.io/VotingApplication/
+url:
 
 ### It is SpringBoot Project with Thymeleaf Frontend. Build in Spring Tool Suite.
 ## It is a Voting Application. 
@@ -100,8 +100,5 @@ url: https://swapnilbamble1438.github.io/VotingApplication/
 ![About](a9.png)
 ==================================================================================================================================================================
 
-
-
-### Project Creator: Swapnil Bamble
 
 
