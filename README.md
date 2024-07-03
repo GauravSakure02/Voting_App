@@ -61,12 +61,6 @@ url:
    file.
    - Now save the changes.)
   - And Try to Run the Project
-
-  ### If you are using Spring Tool Suite 
- -  Right Click On Project > Run As > Spring Boot App 
- -  Now in Browser Type Url: http://localhost:9002
- -  Note: In Url put Port according to your application.properties file.
- -  Application will get Open
    
  ### If you are using Eclipse EE
  - Open Project > open application.properties file >
