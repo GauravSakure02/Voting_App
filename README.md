@@ -62,16 +62,7 @@ url:
    - Now save the changes.)
   - And Try to Run the Project
    
- ### If you are using Eclipse EE
- - Open Project > open application.properties file >
  
-  Now do some changes, Change port number according to your Tomcat Server
-  and save the file. 
-  
- - Right Click On Project > Run as > Spring Boot App
- - Now in Browser Type Url: http://localhost:9002
- -  Note: In Url put Port according to your application.properties file.
- -  Application will get Open.
 
 
 ### Some Screenshots of this Project:
