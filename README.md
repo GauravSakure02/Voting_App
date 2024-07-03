@@ -23,15 +23,6 @@ url:
 - Eclipse EE or Spring Tool Suite
 - MySQL
 
-### Steps To Import And Run The Project in Eclipse EE
-- In Eclipse or Spring Tool Suite
-- Click on File
-- Select Import
-- Select Projects from Git(with smart import) -> Next
-- Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
-  -> Next
-
 ### Some Screenshots of this Project:
 ![Home Page](a1.png)
 ==================================================================================================================================================================
