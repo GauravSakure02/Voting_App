@@ -31,25 +31,6 @@ url:
 - Select Clone URI -> Next
 - In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
   -> Next
--  Now in Local Destination
-
--  proceed -> Next
-
-            Now only select VotingApp\MySpring_Boot_aa23v_VotingApp_Final
-            -> Finish
-   
--  If everything goes right Project will get successfully imported
--  Now wait for few seconds for getting things properly loaded
-
--  Now open Project > src/main/resources > open application.properties file,
-   inside this file look for
-   
-   spring.datasource.url=jdbc:mysql://localhost:3306/springbootnew?serverTimezone=UTC
-
-   
-   
- 
-
 
 ### Some Screenshots of this Project:
 ![Home Page](a1.png)
