@@ -1,5 +1,4 @@
 
-
 # VotingApp - Springboot, Thymeleaf
 
 ### It is a SpringBoot Project with Thymeleaf Frontend. Build in Spring Tool Suite.
